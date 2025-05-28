@@ -56,7 +56,9 @@ Tinkercad para simulação
 
 👨‍💻 Autores
 Erick Munhoes Anciães RM: 561484
+
 Ben-Hur Iung de Lima Ferreira RM: 561564
+
 João Pedro Mendes de Figueiredo RM 558779
 
 👨‍🏫 Professor Responsável
