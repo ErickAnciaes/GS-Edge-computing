@@ -49,12 +49,14 @@ Tinkercad para simulação
 🎥 Link para vídeo explicativo com funcionamento e demonstração do projeto:
 
 📸 Imagem do Projeto
-![image](https://github.com/user-attachments/assets/6b0866fc-420a-4cd1-b182-536629dae86e)
+![Captura de Tela (22)](https://github.com/user-attachments/assets/fd1f7e6c-1860-4172-bab3-bc2f1d0229de)
+
 
 
 👨‍💻 Autores
-Nome:Erick Munhoes Anciães RM:561484
-
+Nome: Erick Munhoes Anciães RM: 561484
+Nome: Ben-Hur Iung de Lima Ferreira RM: 561564
+Nome: João Pedro Mendes de Figueiredo RM 558779
 
 👨‍🏫 Professor Responsável
 Nome: Lucas D. Augusto
