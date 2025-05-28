@@ -46,7 +46,7 @@ IDE Arduino
 Tinkercad para simulação
 
 📽️ Apresentação em Vídeo
-🎥 Link para vídeo explicativo com funcionamento e demonstração do projeto:
+🎥 Link para vídeo explicativo com funcionamento e demonstração do projeto:https://l1nq.com/linkGsEdgeComputing
 
 📸 Imagem do Projeto
 ![Captura de Tela (22)](https://github.com/user-attachments/assets/fd1f7e6c-1860-4172-bab3-bc2f1d0229de)
@@ -54,9 +54,9 @@ Tinkercad para simulação
 
 
 👨‍💻 Autores
-Nome: Erick Munhoes Anciães RM: 561484
-Nome: Ben-Hur Iung de Lima Ferreira RM: 561564
-Nome: João Pedro Mendes de Figueiredo RM 558779
+Erick Munhoes Anciães RM: 561484
+Ben-Hur Iung de Lima Ferreira RM: 561564
+João Pedro Mendes de Figueiredo RM 558779
 
 👨‍🏫 Professor Responsável
 Nome: Lucas D. Augusto
