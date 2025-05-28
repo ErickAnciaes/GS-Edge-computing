@@ -1,6 +1,6 @@
 ## 🌊🚨 Checkpoint 2: Monitoramento de Nível de Rio 
 
-Bem-vindo ao repositório – Global Solution, um sistema de monitoramento inteligente de enchentes desenvolvido com Arduino. Este sistema visa prevenir desastres naturais causados por inundações, emitindo alertas visuais, sonoros e informativos com base no nível da água medido em tempo real.
+Bem-vindo ao repositório da nossa solução da Global Solution, um sistema de monitoramento inteligente de enchentes desenvolvido com Arduino. Este sistema visa prevenir desastres naturais causados por inundações, emitindo alertas visuais, sonoros e informativos com base no nível da água medido em tempo real.
 
 ## 🎯 Objetivo do Projeto
 Desenvolver uma solução automatizada capaz de medir a distância entre o sensor e a superfície do rio, alertando sobre níveis críticos de cheia por meio de LEDs, buzzer e mensagens em um display LCD.
