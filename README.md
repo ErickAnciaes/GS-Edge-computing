@@ -1,4 +1,5 @@
 🌊🚨 Checkpoint 2: Monitoramento de Nível de Rio – Defesa Civil
+
 Bem-vindo ao repositório do projeto Defesa Civil – Checkpoint 2, um sistema de monitoramento inteligente de enchentes desenvolvido com Arduino. Este sistema visa prevenir desastres naturais causados por inundações, emitindo alertas visuais, sonoros e informativos com base no nível da água medido em tempo real.
 
 🎯 Objetivo do Projeto
