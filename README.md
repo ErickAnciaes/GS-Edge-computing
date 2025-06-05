@@ -9,8 +9,11 @@ Desenvolver uma solução automatizada capaz de medir a distância entre o senso
 Este sistema utiliza sensores e atuadores conectados a um Arduino Uno, com as seguintes funcionalidades:
 
 🔹 Sensor ultrassônico (HC-SR04): Mede a distância até a superfície da água.
+
 🔹 Display LCD 16x2: Mostra a distância e o status atual do nível da água.
+
 🔹 LED: Alerta visual quando o nível está alto ou em risco.
+
 🔹 Buzzer: Alerta sonoro ativado em caso de risco iminente.
 
 
